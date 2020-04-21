@@ -1,5 +1,6 @@
 # Zen Cart - PayPal Express Sandbox setup
-How to setup sandbox accounts for development testing of PayPal Express Checkout
+How to setup sandbox accounts for development testing of PayPal Express Checkout.
+
 Note that PayPal refers to the API used by Zen Cart as NVP/SOAP.
 
 1.Create sandbox accounts
